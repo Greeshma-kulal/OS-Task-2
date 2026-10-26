@@ -29,7 +29,9 @@ Screenshots of terminal output and HTML playback are stored in [`screenshots/`](
 
 ![Readers–Writers monitor animation](screenshots/readers_writers_monitor_animation.png)
 
-> Add the monitor-based Readers–Writers terminal screenshot here if you want both terminal and animation evidence for this implementation.
+**Terminal output**
+
+![Readers–Writers monitor animation](screenshots/readers_writers_monitor_terminal.png)
 
 ### Dining Philosophers: Semaphore-Based
 
